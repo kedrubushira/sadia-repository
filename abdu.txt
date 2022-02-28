@@ -1,5 +1,9 @@
 this sadi third file of document
 this is abdu document folder
+<<<<<<< HEAD
 I  added something this files 
 in the repository area
 
+=======
+ second time ubdate this file
+>>>>>>> c
